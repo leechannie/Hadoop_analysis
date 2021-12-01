@@ -3,7 +3,7 @@
 CREATE TABLE cafe AS
 SELECT row_number() over() as rownum, column8 as open, substr(column17, 7, 3) as address, column19 as name, column23 as kind
 FROM seoul_cafe
-WHERE column8 = "영업" and column23 = "커피숍";	
+WHERE column8 = "영업";	
 
 -- 서울시 자랑스러운 한국음식점 정보 (한국어).csv의 명칭, 행정 구, 행정 동만 추출
 CREATE TABLE food1 AS
