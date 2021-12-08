@@ -10,5 +10,5 @@
 ## Result
 > https://docs.google.com/presentation/d/1DPkFe2Pr92XP71w2yvMHI2LF2ypvh9JW/edit?usp=sharing&ouid=104830503688558501846&rtpof=true&sd=true
 
-## 영상
+## Video
 > https://youtu.be/lM_8MMUefas
