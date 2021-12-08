@@ -3,6 +3,7 @@
 ## 2021-2학기 '빅데이터프로젝트' term project
 > 분석 주제: 서울특별시에 각 키워드 별로 어떠한 자치구를 추천하면 좋을까? <br>
 > 키워드: 맛집, 카페, 관광, 교통, 숙소<br>
+> 활용 Data: 서울 열린데이터 광장, Google trends, Naver DataLab
 > 활용 Tool: Apache Hive, Jupyter notebook<br>
 > 활용 언어: SQL, Python
 
