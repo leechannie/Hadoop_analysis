@@ -8,7 +8,8 @@
 > 활용 언어: SQL, Python
 
 ## Result
-> https://docs.google.com/presentation/d/1DPkFe2Pr92XP71w2yvMHI2LF2ypvh9JW/edit?usp=sharing&ouid=104830503688558501846&rtpof=true&sd=true
+> 발표자료 - https://drive.google.com/file/d/1UnHS6f8ZHSeYQKCZ2BrI8ftfOuAHD-Mm/view?usp=sharing <br>
+> 보고서 - https://drive.google.com/file/d/1RHl8LDS9BJeYIFFOCKEAcIzKlRZg0Gei/view?usp=sharing
 
 ## Video
 > https://youtu.be/lM_8MMUefas
